@@ -1,6 +1,3 @@
-.cocok {
-  width: max-content;
-}
 .beda {
   color: #fd9600;
 }
@@ -31,7 +28,7 @@
 }
 .bg-jb {
   background-color: #000;
-  margin-top: 50px;
+  margin-top: 0px;
 }
 .wrapper-headline {
   padding: 0 2rem 0 0;
